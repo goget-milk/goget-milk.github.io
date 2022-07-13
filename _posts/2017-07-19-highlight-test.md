@@ -1,11 +1,12 @@
 ---
 title: Highlight Test
+description: This is a highlight test.
 categories:
  - Test
 tags:
 ---
 
-This is a highlight test.
+> This is a highlight test.
 
 <!-- more -->
 
