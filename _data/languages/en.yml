@@ -50,7 +50,7 @@ page:
   tags: tags
 
 footer:
-  powered: "Powered by %s"
+  powered: ""
   theme: Theme
 
 counter:
