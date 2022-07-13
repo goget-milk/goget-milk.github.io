@@ -9,6 +9,8 @@ This is a highlight test.
 
 # Normal block
 
+<!-- more -->
+
 ```
 alert('Hello World!');
 ```
