@@ -4,7 +4,7 @@
 # ---------------------------------------------------------------
 
 # Site
-title: &#e40f; GO GET GO!
+title: GO GET GO!
 subtitle: Learnin Go with Milk
 description:
 author: Milk
@@ -193,7 +193,7 @@ font:
   # The `size` option use `px` as unit
   logo:
     external: true
-    family: Fontawesome
+    family: FontaAesome
     size:
 
   # Font settings for <code> and code blocks.
