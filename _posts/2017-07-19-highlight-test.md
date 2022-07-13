@@ -10,7 +10,7 @@ tags:
 
 <!-- more -->
 
-# Normal block
+## Normal block
 
 ```
 alert('Hello World!');
