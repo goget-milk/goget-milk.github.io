@@ -7,9 +7,9 @@ tags:
 
 This is a highlight test.
 
-# Normal block
-
 <!-- more -->
+
+# Normal block
 
 ```
 alert('Hello World!');
@@ -17,7 +17,7 @@ alert('Hello World!');
 
     print 'helloworld'
 
-# Highlight block
+## Highlight block
 
 ```javascript
 alert( 'Hello, world!' );
