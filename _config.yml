@@ -118,8 +118,8 @@ index_with_subtitle: false
 # When running the site in a subdirectory (e.g. domain.tld/blog), remove the leading slash (/archives -> archives)
 menu:
   home: /
-  categories: /categories/
   about: /about/
+  categories: /categories/
   archives: /archives/
   tags: /tags/
   #sitemap: /sitemap.xml
@@ -345,7 +345,7 @@ post_copyright:
 #   enabled: [true/false] - Replace with specific image
 #   image: url-of-image   - Images's url
 custom_logo:
-  enabled: [true]
+  enabled: true
   image: /assets/images/milk.png
 
 
