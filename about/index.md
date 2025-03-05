@@ -9,7 +9,7 @@ type: about
 
 Email: [beloborodov.on@yandex.ru](mailto:beloborodov.on@yandex.ru)    
 GitHub: [github.com/jmoloko](https://github.com/jmoloko)  
-Telegram: [@beloborodoff](@beloborodoff)
+Telegram: [@beloborodoff](@beloborodoff)  
 Location: Россия
 
 ---
