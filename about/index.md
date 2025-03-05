@@ -3,15 +3,14 @@ layout: page
 type: about
 ---
 
-Building...
 
 ## CV
 ---
 
 Email: [beloborodov.on@yandex.ru](mailto:beloborodov.on@yandex.ru)    
 GitHub: [github.com/jmoloko](https://github.com/jmoloko)  
-Telegram: [@beloborodoff](https://)  
-Location: [Россия](https://)
+Telegram: [@beloborodoff](@beloborodoff)
+Location: Россия
 
 ---
 #### Цель
@@ -81,6 +80,8 @@ backend-разработку.
 - **Тестирование**: Unit-test, Integration-test  
 - **Дополнительно**: Highload, Microservices, Agile/Scrum, Linux
 
+---
+_links_
 
-[Google Drive](https://drive.google.com/file/d/1uU623jNXh4TTcmV04c8bgE_jmBzkBSnI/view?usp=drive_link) 
-[Notion](https://animated-potassium-f3d.notion.site/CV-1a650454063880728a81f586f19f8860?pvs=4)
+- [Google Drive](https://drive.google.com/file/d/1uU623jNXh4TTcmV04c8bgE_jmBzkBSnI/view?usp=drive_link) 
+- [Notion](https://animated-potassium-f3d.notion.site/CV-1a650454063880728a81f586f19f8860?pvs=4)
