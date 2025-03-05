@@ -82,6 +82,5 @@ backend-разработку.
 
 ---
 _links_
-
 - [Google Drive](https://drive.google.com/file/d/1uU623jNXh4TTcmV04c8bgE_jmBzkBSnI/view?usp=drive_link) 
 - [Notion](https://animated-potassium-f3d.notion.site/CV-1a650454063880728a81f586f19f8860?pvs=4)
